@@ -1,0 +1,29 @@
+.download {
+  background-color: $background;
+}
+
+.download > div {
+  gap: 35px;
+  display: flex;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  flex-direction: column;
+}
+
+.download_top {
+  h3 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 39.01px;
+  }
+}
+
+.download_bottom {
+  gap: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
